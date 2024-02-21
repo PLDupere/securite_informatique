@@ -1,0 +1,35 @@
+# Fichiers générés automatiquement
+bin/
+obj/
+
+# Fichiers de configuration spécifiques à Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers de compilation
+*.dll
+*.exe
+*.pdb
+*.cache
+*.class
+
+# Packages NuGet
+packages/
+
+# Fichiers de données volumineux
+*.bak
+
+# Fichiers spécifiques à votre environnement de développement
+*.vscode/
+*.idea/
